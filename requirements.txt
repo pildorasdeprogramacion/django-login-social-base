@@ -1,0 +1,5 @@
+Django==4.2
+social-auth-app-django==5.4.0
+django-extensions==3.2.3
+Werkzeug==3.0.1
+pyOpenSSL==24.0.0
